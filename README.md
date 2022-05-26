@@ -1,4 +1,4 @@
-👋 Hi, I’m @justmecathy 
+👋 Hi, I’m Cathy 
 - 👀 I’m interested in creating or learning new things. To connect with likeminded people.
 - 🌱 I’m currently learning to code in Javascript. 
 - 💞️ I’m looking to collaborate on different projects.
